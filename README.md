@@ -1,5 +1,4 @@
 ---
-
 | Time | Title & Speaker |
 | --- | --- |
 | **Session 1** | 🤝 **Human–AI Collaboration and Multi-Agent Systems** |
@@ -21,5 +20,4 @@
 | 16:00 - 16:15 | 🛑 Short Break |
 | 16:15 - 17:15 | **Panelists:** Martin Reinard (MIT), Afmedi Hassan (Queens University of Canada), Shengyu Fu (Microsoft), Abhik Roychoudhury (NUS), Dalton Flanagan (Anthropic) |
 | 17:15 - 17:45 | **Closing Remarks:** Baishakhi Ray (Columbia University) |
-
 ---
